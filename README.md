@@ -13,3 +13,5 @@ cv2
 keras
 
 sklearn
+
+matplotlib
