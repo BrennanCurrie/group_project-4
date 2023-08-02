@@ -2,7 +2,7 @@
 
 goal:
 
-to be able to pass a pet image through a CNN model we developed which would predict the facial expression depicted within the photograph. We are striving for a model to produce an accuracy score exceeding 75%
+Our mission is to develope an effective CNN model to predict an animal 'pets' facial expression depicted within the photograph. We are striving for a model to produce an accuracy score exceeding 75%. We ran our data through various models (Sequencial, VGG16, ResNet, DenseNet, EfficientNet) and deployed the most successful model. 
 
 libraries used:
 
@@ -19,3 +19,5 @@ keras
 sklearn
 
 matplotlib
+
+google.colab
