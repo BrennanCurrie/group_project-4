@@ -34,5 +34,5 @@ Starter code from multiple in-class assignments
 Multiple Stack Overflow pages for error research
 Multiple ChatGPT searches for partial code and error research
 TA assistance from A Carpenter and J Torres
-![image](https://github.com/BrennanCurrie/group_project-4/assets/124525903/43459e37-a933-40cd-af88-89506e03e124)
+
 
