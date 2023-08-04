@@ -26,13 +26,13 @@ This data set was small which caused difficulty in reaching a high level of test
 
 ## Citations
 
-Dataset: https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset
-Starter Code DenseNet, ResNet, EfficientNet: https://www.kaggle.com/code/anshtanwar/resnet-densenet-efficientnet-pet-s-expression
-Starter Code VGG16: https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/
-Informational site for VGG16: https://medium.com/@roshankg96/transfer-learning-and-fine-tuning-model-using-vgg-16-90b5401e1ebd
-Starter code from multiple in-class assignments
-Multiple Stack Overflow pages for error research
-Multiple ChatGPT searches for partial code and error research
-TA assistance from A Carpenter and J Torres
+* Dataset: https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset
+* Starter Code DenseNet, ResNet, EfficientNet: https://www.kaggle.com/code/anshtanwar/resnet-densenet-efficientnet-pet-s-expression
+* Starter Code VGG16: https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/
+* Informational site for VGG16: https://medium.com/@roshankg96/transfer-learning-and-fine-tuning-model-using-vgg-16-90b5401e1ebd
+* Starter code from multiple in-class assignments
+* Multiple Stack Overflow pages for error research
+* Multiple ChatGPT searches for partial code and error research
+* TA assistance from A Carpenter and J Torres
 
 
