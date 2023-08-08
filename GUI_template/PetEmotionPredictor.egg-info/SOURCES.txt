@@ -1,0 +1,7 @@
+setup.py
+PetEmotionPredictor.egg-info/PKG-INFO
+PetEmotionPredictor.egg-info/SOURCES.txt
+PetEmotionPredictor.egg-info/dependency_links.txt
+PetEmotionPredictor.egg-info/entry_points.txt
+PetEmotionPredictor.egg-info/requires.txt
+PetEmotionPredictor.egg-info/top_level.txt

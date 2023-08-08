@@ -1,0 +1,3 @@
+[console_scripts]
+pet_emotion_predictor = your_module_name:main_function
+
