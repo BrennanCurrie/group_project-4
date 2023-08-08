@@ -7,3 +7,5 @@ Installation of PetEmotionPredictor
     - pet_emotion_predictor in the Terminal
 
 
+setup.py in the dist folder was used to create the package and is not needed to install
+
