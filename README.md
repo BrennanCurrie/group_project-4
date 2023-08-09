@@ -10,7 +10,7 @@ By utilizing large machine learning, we are striving to develop an effective mod
 *	ResNet model original dataset: 25% test accuracy
 *	DenseNet model original dataset: 54% test accuracy
 *	DenseNet model augmented, best result data set: 65% test accuracy
-*	VGG 16 model pre-split dataset, no additional augmentation: 57% test accuracy
+*	VGG 16 model pre-split dataset, limited additional augmentation: 57% test accuracy
 
 ## Data Preprocessing
 *	Multiple picture files located at https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset were downloaded for this model.
